@@ -112,10 +112,5 @@ Here is a list of requirements the GlobeX VP of Special Projects would like to s
     - IP address of all devices clearly indicated on network diagram
 - I. How will OS version control be handled?
   - I1. Describe in detail how OS version control will be handled centrally from a server-based solution. Hint: Read [Windows Server Update Services](https://docs.microsoft.com/en-us/windows-server/administration/windows-server-update-services/get-started/windows-server-update-services-wsus){:target="_blank"}
-- J. Physical hardware requirements of your proposal
-  - J1. List all specs (similar to scenario hardware specs list above) of your machines
-- K. Software requirements of your proposal, inluding all required licensing. Clearly indicate all software **versions** and **editions** to be used in your solution.
-- L. All associated costs including sourcing information, including who will you purchase all this from, at what price, and what terms.
-  - L1. Include a projection of monthly overhead based on anticipated usage for given rates
 
 Teams are encouraged to ask their instructoral team for feedback on project report, slide deck, and other deliverables. The client point of contact should be contacted via email regarding scenario-specific scoping.
